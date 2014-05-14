@@ -1,4 +1,4 @@
-# Group 2 - Dougal and Tom
+# Group 1 - Dougal and Tom
 
 from random import shuffle
 
